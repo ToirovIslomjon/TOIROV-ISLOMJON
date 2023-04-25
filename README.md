@@ -1,2 +1,2 @@
 # python-
-birinchi pyton darslari
+birinchi python darslari
